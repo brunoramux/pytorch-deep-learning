@@ -162,7 +162,7 @@ models/07_effnetb2_data_10_percent_5_epochs.pth
 models/07_effnetb2_data_20_percent_5_epochs.pth
 models/08_*
 models/09_*
-
+models/
 # Demos
 demos/foodvision_big/
 demos/foodvision_mini/
